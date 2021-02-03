@@ -1,5 +1,5 @@
 
-<img src="banner.svg" width="100%">
+<img src="banner.jpg" width="100%">
 
 
 <h3>Open source projects</h3>
