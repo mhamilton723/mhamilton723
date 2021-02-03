@@ -16,7 +16,8 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="banner.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   enable-background="new">
   <defs
      id="defs2">
     <linearGradient
@@ -71,6 +72,16 @@
          x="-0.0042568692"
          y="0.0053858487" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4919">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend4921" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -79,11 +90,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2059.796"
-     inkscape:cy="215.19466"
+     inkscape:zoom="0.175"
+     inkscape:cx="-3058.1867"
+     inkscape:cy="1222.6631"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="3440"
      inkscape:window-height="1346"
@@ -106,7 +117,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="display:inline"
+     style="display:inline;filter:url(#filter4919);opacity:0.99"
      transform="translate(0,-100)">
     <polyline
        id="polyline887"
@@ -160,5 +171,14 @@
      id="layer3"
      inkscape:label="Layer 3"
      style="display:inline"
-     transform="translate(0,-100)" />
+     transform="translate(0,-100)">
+    <rect
+       transform="translate(0,-1.0833333e-6)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.13399982;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4919)"
+       id="rect4917"
+       width="1071.6738"
+       height="376.3696"
+       x="-41.776531"
+       y="62.859039" />
+  </g>
 </svg>
