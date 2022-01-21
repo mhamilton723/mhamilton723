@@ -14,7 +14,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Azure/mmlspark"><b>Microsoft ML for Apache Spark</b></a></td>
+      <td><a href="https://github.com/Azure/mmlspark"><b>SynapseML</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Azure/mmlspark?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Azure/mmlspark?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Azure/mmlspark?style=flat-square&labelColor=343b41"/></td>
