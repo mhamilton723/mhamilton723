@@ -26,6 +26,12 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/mhamilton723/FeatUp"><b>FeatUp: Improve the resolution of ANY vision model by 16-32x</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/microsoft/art"><b>MosAIc</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/microsoft/art?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/microsoft/art?style=flat-square&labelColor=343b41"/></td>
