@@ -46,5 +46,5 @@
   </tbody>
 </table>
 
-[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamilton723&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=stars,contribs)](https://mhamilton.net)
+[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamilton723&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs)](https://mhamilton.net)
 
