@@ -20,16 +20,22 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Azure/mmlspark?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/mhamilton723/STEGO"><b>STEGO: Unsupervised Semantic Segmentation</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/mhamilton723/FeatUp"><b>FeatUp: Improve the resolution of ANY vision model by 16-32x</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mhamilton723/DenseAV"><b>DenseAV: Unsupervised Discovery and Localization of Sound and Language</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/DenseAV?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/DenseAV?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/DenseAV?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mhamilton723/STEGO"><b>STEGO: Unsupervised Semantic Segmentation</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/STEGO?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/microsoft/art"><b>MosAIc</b></a></td>
