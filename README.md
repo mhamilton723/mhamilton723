@@ -26,6 +26,12 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mhamilton723/FeatUp?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ShadeAlsha/ICon"><b>I-Con: A Unifying Framework for Representation Learning</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ShadeAlsha/ICon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ShadeAlsha/ICon?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ShadeAlsha/ICon?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/mhamilton723/DenseAV"><b>DenseAV: Unsupervised Discovery and Localization of Sound and Language</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mhamilton723/DenseAV?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mhamilton723/DenseAV?style=flat-square&labelColor=343b41"/></td>
